@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17548393-5eec-4e1a-944c-1e55388217b1" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/MainController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/HelloLombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/HelloLombok.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -116,7 +116,7 @@
       <updated>1700474491514</updated>
       <workItem from="1700474492746" duration="198000" />
       <workItem from="1700474781919" duration="998000" />
-      <workItem from="1700475801226" duration="4903000" />
+      <workItem from="1700475801226" duration="5744000" />
     </task>
     <servers />
   </component>
