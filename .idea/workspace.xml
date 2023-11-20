@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17548393-5eec-4e1a-944c-1e55388217b1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/SpringBootBoardApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/test/java/com/mysite/SpringBootBoard/SpringBootBoardApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/HelloLombok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBoard/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/SpringBootBoard">
@@ -85,7 +81,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -122,7 +118,7 @@
       <updated>1700474491514</updated>
       <workItem from="1700474492746" duration="198000" />
       <workItem from="1700474781919" duration="998000" />
-      <workItem from="1700475801226" duration="2129000" />
+      <workItem from="1700475801226" duration="4521000" />
     </task>
     <servers />
   </component>
