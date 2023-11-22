@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17548393-5eec-4e1a-944c-1e55388217b1" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBoard/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/HelloLombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/HelloLombok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/MainController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +83,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HelloLombok">
+  <component name="RunManager" selected="Spring Boot.SpringBootBoardApplication">
     <configuration name="HelloLombok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mysite.SpringBootBoard.HelloLombok" />
       <module name="SpringBootBoard.main" />
@@ -252,8 +249,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloLombok" />
         <item itemvalue="Spring Boot.SpringBootBoardApplication" />
+        <item itemvalue="Application.HelloLombok" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +270,7 @@
       <workItem from="1700475801226" duration="10103000" />
       <workItem from="1700629327436" duration="764000" />
       <workItem from="1700630102133" duration="146000" />
-      <workItem from="1700630258385" duration="86000" />
+      <workItem from="1700630258385" duration="1815000" />
     </task>
     <servers />
   </component>
