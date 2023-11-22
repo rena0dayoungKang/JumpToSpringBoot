@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17548393-5eec-4e1a-944c-1e55388217b1" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/MainController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +269,7 @@
       <workItem from="1700475801226" duration="10103000" />
       <workItem from="1700629327436" duration="764000" />
       <workItem from="1700630102133" duration="146000" />
-      <workItem from="1700630258385" duration="1815000" />
+      <workItem from="1700630258385" duration="3030000" />
     </task>
     <servers />
   </component>
