@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17548393-5eec-4e1a-944c-1e55388217b1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/Answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/AnswerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/java/com/mysite/SpringBootBoard/QuestionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/test.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootBoard/test.trace.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBoard/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBoard/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootBoard/src/test/java/com/mysite/SpringBootBoard/SpringBootBoardApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootBoard/src/test/java/com/mysite/SpringBootBoard/SpringBootBoardApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="17548393-5eec-4e1a-944c-1e55388217b1" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -355,7 +343,7 @@
       <workItem from="1700629327436" duration="764000" />
       <workItem from="1700630102133" duration="146000" />
       <workItem from="1700630258385" duration="3030000" />
-      <workItem from="1700724586524" duration="15546000" />
+      <workItem from="1700724586524" duration="15877000" />
     </task>
     <servers />
   </component>
