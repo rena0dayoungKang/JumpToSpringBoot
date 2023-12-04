@@ -1,11 +1,14 @@
 package com.mysite.SpringBootBoard;
 
+import com.mysite.SpringBootBoard.answer.Answer;
+import com.mysite.SpringBootBoard.answer.AnswerRepository;
+import com.mysite.SpringBootBoard.question.Question;
+import com.mysite.SpringBootBoard.question.QuestionRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import javax.transaction.Transactional;
-import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
